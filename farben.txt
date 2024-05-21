@@ -1,5 +1,5 @@
 rot
 grun
-schwarz
 braun
 blau
+gold
